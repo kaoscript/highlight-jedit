@@ -1,7 +1,7 @@
 [kaoscript/highlight-jedit](https://github.com/kaoscript/highlight-jedit)
 ===============================================================
 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/kaoscript/atom-language/blob/master/LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](./LICENSE)
 
 Provides syntax highlighting support for [kaoscript](https://github.com/kaoscript/kaoscript) in [jEdit](http://www.jedit.org/).
 
