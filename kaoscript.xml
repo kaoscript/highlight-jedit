@@ -16,7 +16,7 @@
 		<PROPERTY NAME="electricKeys" VALUE=":" />
 	</PROPS>
 	
-	<RULES IGNORE_CASE="FALSE" HIGHLIGHT_DIGITS="TRUE" DIGIT_RE="(0x[\p{XDigit}]+[lL]?|[\p{Digit}]+(e[\p{Digit}]*)?[lLdDfF]?)" NO_WORD_SEP="_$@">
+	<RULES IGNORE_CASE="FALSE" HIGHLIGHT_DIGITS="TRUE" DIGIT_RE="(0x[\p{XDigit}]+[lL]?|[\p{Digit}]+(e[\p{Digit}]*)?[lLdDfF]?|\d[a-zA-Z0-9_.]*)" NO_WORD_SEP="_$@">
 		<SPAN TYPE="COMMENT3" DELEGATE="COMMENT_BLOCK_HEADER">
 			<BEGIN>/**</BEGIN>
 			<END>*/</END>
@@ -104,6 +104,7 @@
 			<KEYWORD3>this</KEYWORD3>
 			<KEYWORD3>super</KEYWORD3>
 			
+			<KEYWORD1>abstract</KEYWORD1>
 			<KEYWORD1>as</KEYWORD1>
 			<KEYWORD1>async</KEYWORD1>
 			<KEYWORD1>await</KEYWORD1>
