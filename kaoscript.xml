@@ -114,8 +114,10 @@
 			<KEYWORD1>class</KEYWORD1>
 			<KEYWORD1>const</KEYWORD1>
 			<KEYWORD1>continue</KEYWORD1>
+			<KEYWORD1>constructor</KEYWORD1>
 			<KEYWORD1>delete</KEYWORD1>
 			<KEYWORD1>desc</KEYWORD1>
+			<KEYWORD1>destructor</KEYWORD1>
 			<KEYWORD1>do</KEYWORD1>
 			<KEYWORD1>else</KEYWORD1>
 			<KEYWORD1>enum</KEYWORD1>
