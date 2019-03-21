@@ -1,7 +1,8 @@
 [kaoscript/highlight-jedit](https://github.com/kaoscript/highlight-jedit)
 ===============================================================
 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](./LICENSE)
+[![Syntax Version](https://img.shields.io/badge/syntax-v0.8%20/%20outdated-critical.svg?style=flat)](https://github.com/kaoscript/kaoscript)
 
 Provides syntax highlighting support for [kaoscript](https://github.com/kaoscript/kaoscript) in [jEdit](http://www.jedit.org/).
 
@@ -24,6 +25,4 @@ Also, add the following line to your `/modes/catalog` file:
 License
 -------
 
-Copyright &copy; 2016 Baptiste Augrain
-
-Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
+[MIT](http://www.opensource.org/licenses/mit-license.php) &copy; Baptiste Augrain
